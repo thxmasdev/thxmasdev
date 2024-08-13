@@ -19,25 +19,25 @@
 ## 🚀 Languages
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=red" height="40"/>&nbsp;    
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>&nbsp;    
 </p>
 
 ## 💻 Technologies & Tools
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator&logoColor=white" height="40"/>&nbsp;
-    <img src="https://img.shields.io/badge/-Corel%20Draw-05122A?style=for-the-badge&logo=corel-draw&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Corel%20Draw-000000?style=for-the-badge&logo=corel-draw&logoColor=white" height="40"/>&nbsp;
 </p>
 
 ## 📊 GitHub Stats
