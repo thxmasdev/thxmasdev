@@ -19,10 +19,10 @@
 ## 🚀 Languages
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white" height="40"/>&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white" height="40"/>&nbsp;
     <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&logoColor=white" height="40"/>&nbsp;
     <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=red" height="40"/>&nbsp;    
 </p>
 
 ## 💻 Technologies & Tools
