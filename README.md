@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Thomàs</h1>
 
-<!--
-**thxmasdev/thxmasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://i.imgur.com/8enGufr.png" alt="Profile Banner"></p>
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" width="150px">I am a 20-year-old developer from Argentina with a passion for programming, especially in JavaScript and web development. I am currently studying for a degree in Programming and advancing towards a Bachelor's in the field. I have experience managing my own Minecraft server, where I develop custom Discord bots and contribute to web development projects. I also enjoy graphic design in my spare time.</p>
+
+## 🌟 Soft Skills
+
+### 💬 Communication
+- **Clear Communication:** Strong verbal and written communication skills, ensuring clear and concise information sharing across all levels of a project.
+- **Presentation Skills:** Experienced in presenting complex technical information to both technical and non-technical audiences.
+
+### 🤝 Teamwork
+- **Collaborative:** Works well in a team environment, always ready to support and learn from team members.
+- **Problem Solving:** Thrives in team-based problem-solving, contributing to brainstorming sessions and developing innovative solutions.
+
+## 🚀 Languages
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3&logoColor=white" height="40"/>&nbsp;
+</p>
+
+## 💻 Technologies & Tools
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator&logoColor=white" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/-Corel%20Draw-05122A?style=for-the-badge&logo=corel-draw&logoColor=white" height="40"/>&nbsp;
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxmasdev&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thxmasdev&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=thxmasdev&theme=chartreuse-dark"></p>
+
+## 🔗 Connect with Me
+
+<p align="center">
+    <a href="https://discord.com/users/thxmasdev"><img src="https://img.shields.io/badge/-thxmasdev-5865F2?style=for-the-badge&logo=Discord&logoColor=white" height="40"/></a>
+    <a href="https://twitter.com/thxmasdev"><img src="https://img.shields.io/badge/-thxmasdev-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" height="40"/></a>
+</p>
+
+## 🌐 Join My Discord Server
+
+<p align="center">
+    <a href="https://discord.gg/yDqmpM3XtM"><img src="https://img.shields.io/badge/-Join%20My%20Discord%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/></a>
+</p>
