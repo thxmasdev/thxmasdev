@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-<p align="center" width="150px">I am a 20-year-old developer from Argentina with a passion for programming, especially in JavaScript and web development. I am currently studying for a degree in Programming and advancing towards a Bachelor's in the field. I have experience managing my own Minecraft server, where I develop custom Discord bots and contribute to web development projects. I also enjoy graphic design in my spare time.</p>
+<p align="center" width="150px">I am a 20 years old developer from Argentina with a passion for programming, especially in JavaScript and web development. I am currently studying for a degree in Programming and advancing towards a Bachelor's in the field. I have experience managing my own Minecraft server, where I develop custom Discord bots and contribute to web development projects. I also enjoy graphic design in my spare time.</p>
 
 ## 🌟 Soft Skills
 
