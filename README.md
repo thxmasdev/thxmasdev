@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxmasdev&layout=compact&hide=TSQL&theme=chartreuse-dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxmasdev&layout=compact&hide=TSQL&theme=chartreuse-dark" alt="Lenguagues">
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=thxmasdev&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400" alt="GitHub Stats">
